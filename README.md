@@ -17,12 +17,13 @@
 
 ---
 
-## 🚀 Currently Into
+## 🚀 Current Progress
 
 <p>
   <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat&logo=Rust&logoColor=black"/>
   <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=flat&logo=Solidity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-FFFFFF?style=flat&logo=Html&logoColor=black"/>
   <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat&logo=ethereum&logoColor=white"/>
 </p>
 
@@ -42,7 +43,8 @@
 
 ## 📌 Notes
 
-> This profile is actively growing.  
-> Projects, research, and contributions will be added consistently.
+> This profile is actively Growing.  
+> Projects, Research, and Contributions will be added Consistently.
 
-⭐ *Thanks for visiting my profile!*
+⭐ **Thanks for Visiting my Profile!**
+❤️ **Love From Geralt**
