@@ -20,7 +20,7 @@
 ## 🚀 Currently Into
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=flat&logo=Rust&logoColor=black"/>
   <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=flat&logo=Solidity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat&logo=ethereum&logoColor=white"/>
