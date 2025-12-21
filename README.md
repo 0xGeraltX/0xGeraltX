@@ -1,70 +1,52 @@
-<!-- Animated Slider Start -->
-<div align="center">
+<h1 align="center">Welcome to My Profile</h1>
 
-<style>
-.slider-container {
-  width: 90%;
-  max-width: 700px;
-  overflow: hidden;
-  border-radius: 14px;
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-  color: white;
-  font-family: Arial, sans-serif;
-}
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=rect
+  &color=gradient
+  &height=120
+  &section=header
+  &text=Welcome%20to%20My%20Profile
+  &fontSize=40
+  &animation=fadeIn" />
+</p>
 
-.slider {
-  display: flex;
-  width: 300%;
-  animation: slide 12s infinite;
-}
 
-.slide {
-  width: 100%;
-  padding: 35px;
-  text-align: center;
-}
+---
 
-.slide h2 {
-  margin-bottom: 10px;
-  font-size: 22px;
-}
+## 👤 About Me
 
-.slide p {
-  font-size: 15px;
-  opacity: 0.9;
-}
+- 🛡️ **CT Researcher & Contributor**
+- 🌐 **Learning Web3 Developer**
+- 🧠 Passionate about security, decentralization, and clean code
 
-@keyframes slide {
-  0% { transform: translateX(0); }
-  33% { transform: translateX(0); }
-  38% { transform: translateX(-100%); }
-  66% { transform: translateX(-100%); }
-  71% { transform: translateX(-200%); }
-  100% { transform: translateX(-200%); }
-}
-</style>
+---
 
-<div class="slider-container">
-  <div class="slider">
+## 🚀 Currently Into
 
-    <div class="slide">
-      <h2>🛡️ Cyber Threat Researcher</h2>
-      <p>Focused on real-world security research, vulnerability analysis, and threat intelligence.</p>
-    </div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat&logo=ethereum&logoColor=white"/>
+</p>
 
-    <div class="slide">
-      <h2>🌐 Web3 & Smart Contracts</h2>
-      <p>Learning Ethereum, Solidity, and decentralized application security.</p>
-    </div>
+---
 
-    <div class="slide">
-      <h2>🧠 Python & Linux</h2>
-      <p>Automation, scripting, and security tooling with clean and efficient code.</p>
-    </div>
+## 📊 GitHub Stats
 
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xGeraltX&show_icons=true&theme=radical" />
+</p>
 
-</div>
-<!-- Animated Slider End -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGeraltX&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📌 Notes
+
+> This profile is actively growing.  
+> Projects, research, and contributions will be added consistently.
+
+⭐ *Thanks for visiting my profile!*
