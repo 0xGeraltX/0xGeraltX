@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile</h1>
 
 <p align="center">
-  <a href="https://x.com/Geralt013">
+  <a href="https://x.com/0xGeraltX">
     <img src="https://img.shields.io/badge/Follow-@Geralt013-1DA1F2?logo=twitter&style=flat" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=0xGeraltX&label=Profile%20views&color=0e75b6&style=flat" />
